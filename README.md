@@ -1,1 +1,1 @@
-# This is basic backend for project mnagement App
+# This is basic backend for project management App
